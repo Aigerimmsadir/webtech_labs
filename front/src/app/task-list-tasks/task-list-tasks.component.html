@@ -1,0 +1,19 @@
+<ng-container>
+  <app-base>
+      
+          <button type="button" class="btn btn-link btn-sm" (click)="navigateBack()">Назад</button>
+         
+        <ul class="list-group">
+            <li class="list-group-item" *ngFor="let task of tasks">
+             
+              
+                <a routerLink="/tasks/{{task.id}}/">
+                 <td>{{task.id}}&nbsp;</td>
+                 <td>{{task.name}}</td>
+              
+              
+              </a> 
+            </li>
+        </ul>
+  </app-base>
+</ng-container>
