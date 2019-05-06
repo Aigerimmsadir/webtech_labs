@@ -1,0 +1,31 @@
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="display-4"> <a routerLink="/" class="">TODO-FRONT</a></h1>
+  
+  <div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Auth</button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item" *ngIf="!auth.isAuthenticated()">
+              <a routerLink="/login" class="nav-link">Log In</a> </a>
+   
+          <a class="dropdown-item"  *ngIf="auth.isAuthenticated()">
+              <a class="nav-link" (click)="logout()">Log Out</a> </a>
+          <a class="dropdown-item"  *ngIf="!auth.isAuthenticated()">
+              <a routerLink="/register" class="nav-link">Register</a> </a>
+     
+    
+  </div>
+
+</div></div>
+</div>
+<br>
+<div class="container">
+  <div class="row justify-content-center">
+          <div class="container col-md-6">
+          <ng-content *ngIf="auth.isAuthenticated()" select="[body]"></ng-content>
+          <ng-content *ngIf="!auth.isAuthenticated()" select="[authforms]"></ng-content>
+          </div>
+      
+  </div>
+</div>

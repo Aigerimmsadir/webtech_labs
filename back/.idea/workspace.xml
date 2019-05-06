@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29130430-2293-4320-a318-87c23b7e7fa5" name="Default Changelist" comment="" />
+    <list default="true" id="29130430-2293-4320-a318-87c23b7e7fa5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoback/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoback/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoback/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoback/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/base/base.component.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/base/base.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/services/main.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/services/main.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/services/provider.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/services/provider.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-detail/task-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-detail/task-detail.component.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-detail/task-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-detail/task-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-list-tasks/task-list-tasks.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-list-tasks/task-list-tasks.component.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-list-tasks/task-list-tasks.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-list-tasks/task-list-tasks.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-lists/task-lists.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-lists/task-lists.component.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-lists/task-lists.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/task-lists/task-lists.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/tslint.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +101,79 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1956847748">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="494" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="494" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/models.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todoback/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="902">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/views/fbv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/admin.py">
+        <entry file="file://$PROJECT_DIR$/api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="66">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/views/auth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +182,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="88">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -78,21 +192,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todoback/settings.py">
+        <entry file="file://$PROJECT_DIR$/api/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="1056">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/views.py">
+        <entry file="file://$PROJECT_DIR$/api/views/cbv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="352">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,18 +217,30 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TaskSerializer</find>
+      <find>Restaurant</find>
+      <find>rest</find>
+      <find>api/</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/urls.py" />
         <option value="$PROJECT_DIR$/api/admin.py" />
-        <option value="$PROJECT_DIR$/todoback/settings.py" />
-        <option value="$PROJECT_DIR$/todoback/urls.py" />
         <option value="$PROJECT_DIR$/api/views.py" />
         <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/todoback/urls.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/todoback/settings.py" />
+        <option value="$PROJECT_DIR$/api/views/cbv.py" />
+        <option value="$PROJECT_DIR$/api/views/auth.py" />
+        <option value="$PROJECT_DIR$/api/serializers.py" />
+        <option value="$PROJECT_DIR$/api/views/fbv.py" />
       </list>
     </option>
   </component>
@@ -121,32 +250,44 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="webtech_labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtech_labs" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webtech_labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtech_labs" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="todoback" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../restaurant" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -190,18 +331,18 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09598214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09598214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28235295" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33277312" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.047058824" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -209,20 +350,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09598214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09598214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28235295" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31932774" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.21344538" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,57 +373,89 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4562">
+          <caret line="845" column="6" selection-start-line="845" selection-start-column="6" selection-end-line="845" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py" />
     <entry file="file://$PROJECT_DIR$/api/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todoback/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todoback/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="902">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="88">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/views.py">
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        <state relative-caret-position="1056">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/models.py">
+    <entry file="file://$PROJECT_DIR$/api/views/cbv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="352">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/fbv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
